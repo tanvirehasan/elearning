@@ -1,0 +1,23 @@
+@media only screen and (max-width: 801px) {
+
+
+  
+.adHere{display: none;}
+.headerContent{display: none;}
+/*--header banner--*/
+.headertext{margin: 0px auto; position: absolute; padding: 10% 5%; }
+.headertext h1{	width:90%;font-size:40px;}
+.headertext p{width: 90%;}
+/*--funfactor--*/
+.funfactor{	width: 100%;height:200px;}
+.funfactorcontener{width: 100%; text-align: center;padding-top:40px;}
+.funboxtext{float: none;}
+.funboxtext h3{	padding:0;}
+.funboxtext p{padding: 0;}
+.icon{float: none; text-align: center;width: 100%; height: 70px;}
+.icon i{font-size:50px;	padding:0px;color: #fff; }
+/*--main content--*/
+.MainContnet{width: 95%;margin: 0px auto; padding: 0;}
+.allcard{width:240px; }
+
+}
